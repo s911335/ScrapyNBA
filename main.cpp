@@ -1,9 +1,9 @@
-#include <iostream>
+#include "libScrapyNBAData/libScrapyNBAData.hpp"
 
 using namespace std;
 
 int main(int argc, char** argv)
 {
-    cout<<"Hello ScrapyNBA project"<<endl;
+    printProject();
     return 0;
 }
